@@ -16,6 +16,7 @@ Put both the css files in the head, boos.css comes after reset.css.
 	<link href="boos.css" rel="stylesheet" type="text/css">
 	
 Put boos.js at the bottom of your body.
+
 	<script src="boos.js"></script>
 	</body>
 
