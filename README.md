@@ -3,7 +3,7 @@ Javascript framework to create an angry piece of text (and background).
 
 Demo:
 --------------
-<http://arjenovic.github.io/demo_KangarooIMG/>
+<http://peame.github.io/
 
 
 Setup:
