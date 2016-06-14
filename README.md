@@ -1,5 +1,5 @@
 # Boos.js
-Javascript framework to creat an angry piece of text (and background).
+Javascript framework to create an angry piece of text (and background).
 
 Demo:
 --------------
