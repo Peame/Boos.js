@@ -20,7 +20,7 @@ Put boos.js at the bottom of your body.
 	<script src="boos.js"></script>
 	</body>
 
-Now to make a <div> or a piece of text angry use the class name:
+Now to make a div or a piece of text angry use the class name:
   class="boos"
 
 Licence:
