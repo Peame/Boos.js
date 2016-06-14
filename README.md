@@ -3,7 +3,7 @@ Javascript framework to create an angry piece of text (and background).
 
 Demo:
 --------------
-<http://peame.github.io/
+http://peame.github.io/
 
 
 Setup:
